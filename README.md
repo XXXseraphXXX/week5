@@ -64,3 +64,12 @@ partical evaluation
 **Recursion and Curried Function**
 ![rec](rec.png)
 
+# Practice 
+- https://www.cs.nmsu.edu/~rth/cs/cs471/sml.html
+
+## Reference
+- Webber, Adam. Modern Programming Languages: A Practical Introduction. Franklin, Beedle &amp; Associates, 2011.
+- https://brightspace.uri.edu/content/enforced/188472-2226_200753_3000_0000_SS3/CSC301_slides/Week%206%20LV2%20-%20A%20Final%20Look%20at%20ML.pdf?_&d2lSessionVal=dIGhiPJ4EpidZJxPUL279OQ1K&ou=188472
+- https://brightspace.uri.edu/content/enforced/188472-2226_200753_3000_0000_SS3/CSC301_slides/Week%206%20LV1_%20Polymorphism.pdf?_&d2lSessionVal=dIGhiPJ4EpidZJxPUL279OQ1K&ou=188472
+- “Argument Coercion in C/C++.” GeeksforGeeks, 26 Dec. 2018, https://www.geeksforgeeks.org/argument-coercion-in-c-c/. 
+- Functions in SML - Kansas State University. https://people.cs.ksu.edu/~xou/505f10/slides/SMLfunctions.pdf. 
