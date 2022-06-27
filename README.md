@@ -21,8 +21,12 @@ Subtype Polymorphism
 higher order programming Functions as parameters or return functions as return values.
 **Anonymous function**- function simply that pass it in as an argument to another function.
 
-for building small functions on the fly.
-since ML have many built in function that are concern with function application to object and structures.
+**Note:** most use fn
+
+fn x = x+1
+For building small functions on the fly.
+
+Since ML have many built in function that are concern with function application to object and structures.
 in ML these built-in functions are curried 
 **what is curried?**
 - Currying is a way to break down function that take in multiple arguments into a link chain of function that also take one argument each. 
@@ -37,7 +41,9 @@ in ML these built-in functions are curried
 **Map**
 -The map function takes a function F and a list [a1,a2,...,an], and produces the list [F(a1), F(a2),..., F(an)].
 That is, it applies F to each element of the list and returns the list of resulting values.
-**Example: **
+
+**Example: ** ![map](map.JPEG)
+
 
 **Fold Function**
 ML provides the user a pair of functions called foldr and foldl. Both functions perform a variety of fold operation, which takes a list L =[a1,a2,...,an] and treats each element an as if it were a function; call this function Fai. 
