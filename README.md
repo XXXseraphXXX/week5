@@ -42,7 +42,7 @@ in ML these built-in functions are curried
 -The map function takes a function F and a list [a1,a2,...,an], and produces the list [F(a1), F(a2),..., F(an)].
 That is, it applies F to each element of the list and returns the list of resulting values.
 
-**Example: ** ![map](map.JPEG)
+**Example: ** ![map](map.JPG)
 
 
 **Fold Function**
